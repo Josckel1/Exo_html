@@ -1,0 +1,46 @@
+body{
+	background-color: rgb(204,255,255);
+	font-family: "Times New Roman", Times, serif;
+	color: navy;
+}
+
+h1{
+	border-style: double;
+    border-width: 3px;
+    border-color: white;
+    width: 60%;
+    text-align: center;
+    color: white;
+    font-size: 18pt;
+    background-color: navy;
+
+}
+h2{
+	font-size: 16pt;
+	color: red;
+	text-decoration: underline;
+}
+h3{
+	font-size: 14pt;
+	font-style: italic;
+	color: green;
+	margin-left: 5pt;
+}
+p{
+	text-align: justify;
+	font-style: bold;
+	margin-left: 10pt;
+}
+
+ul{
+font-style: bold;
+list-style-type: square;
+margin-left: 15pt;
+}
+ol{
+	font-style: bold;
+	list-style-type: lower-roman;
+	margin-left: 15pt;
+
+
+}
